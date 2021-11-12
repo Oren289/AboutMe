@@ -31,3 +31,14 @@ body {
 .contact:hover {
   filter: brightness(60%);
 }
+
+.sign-button {
+  background-color: #e1578a;
+  border-color: #c73d70;
+  color: white;
+}
+
+.sign-button:hover {
+  background-color: #c73d70;
+  border-color: #c73d70;
+}
